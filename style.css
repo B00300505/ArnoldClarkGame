@@ -1,0 +1,25 @@
+body {
+	background-color: #33ccff;
+	width:100%;
+	margin: 0;
+    padding: 0;
+}
+
+#titleBlock {
+	background-color: #0099ff;
+	width:100%;
+	height: 120px;
+}
+
+#content {
+	float:left;
+	width:100%;
+}
+
+th{
+	height: 20px;
+}
+
+button {
+	width:70px;
+}
